@@ -1,0 +1,67 @@
+body{
+    
+    background-color: #1e6ba2;
+}
+
+p{
+    color:black;
+}
+
+#yay{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.header{
+    padding: 2px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    background-color: #68757b;
+    color:white;
+    object-position: bottom;
+
+}
+
+.flesh{
+    margin: 10px 200px 200px 200px;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 15%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+
+div{
+    
+}
+
+img{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#left{
+    display:flex;
+    justify-content: center;
+    
+}
+
+#content{
+    width: 500px;
+    display:flex;
+    justify-content: center;
+
+}
+
+strong{
+    color: #BE8B09;
+}
+
+.deco{
+    text-align: center;
+    color: #BE8B09;
+}
